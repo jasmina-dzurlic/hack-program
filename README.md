@@ -1,6 +1,6 @@
-# python-program
+# python-package
 
-`python-program` determines the current day of the week.
+`python-package` determines the current day of the week.
 
 
 ## CLI instructions
